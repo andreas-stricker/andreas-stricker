@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm Andy, a web developer based in Vienna, Austria.
+
+- <a href="https://www.facebook.com/andreas.stricker.webdev">facebook</a>
+
 <!--
 **andreas-stricker/andreas-stricker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
