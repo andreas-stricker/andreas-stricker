@@ -1,6 +1,6 @@
 ### Hey, i'm Andy 👋
 
-a web developer & UX/UI designer based in Vienna, Austria.
+a web developer & ux/ui designer based in Vienna, Austria.
 
 
 - <a href="https://www.andreas-stricker.at" target="_blank">portfolio website</a>
