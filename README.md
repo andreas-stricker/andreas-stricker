@@ -1,3 +1,5 @@
+![Andreas Stricker GitHub Profile](https://andreas-stricker.at/ablage/github/github_profile_img.png)
+
 ### Hey, i'm Andy 👋
 
 a web developer & ux/ui designer based in Vienna, Austria.
