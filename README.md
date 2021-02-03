@@ -1,4 +1,4 @@
-![Andreas Stricker GitHub Profile](https://github.com/andreas-stricker/andreas-stricker/blob/main/github_profile_img.jpg?raw=true)
+![Andreas Stricker GitHub Profile](https://github.com/andreas-stricker/andreas-stricker/blob/main/github_profile_hero.jpg?raw=true)
 
 ### Hey, i'm Andy 👋
 
